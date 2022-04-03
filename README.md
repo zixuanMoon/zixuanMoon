@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zixuanMoon
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning font-end development knowledge
+- 🌱 I’m currently learning front-end development knowledge
 - 📫 How to reach me: 2759786667@qq.com
 
 <!---
